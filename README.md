@@ -7,6 +7,7 @@ Curated list of vim plugins that I find useful.
 * [HiCurLine](https://www.vim.org/scripts/script.php?script_id=555) - highlights the current line
 * [csv](https://www.vim.org/scripts/script.php?script_id=2830) - filetype plugin for csv files
 * [simpleguifont](https://github.com/fracpete/vim-simpleguifont) - for increasing/decreasing font size via keyboard shortcuts
+* [tcomment_vim](https://github.com/tomtom/tcomment_vim) - for toggling comments based on file-type
 
 ## Programming
 
